@@ -90,5 +90,5 @@ In order to run this API you have to run StringFormatApi.
 `POST` /convert?inputMode=json&outputMode=xml
 > RequestBody: {"result":2}
 
-> ResponseBody: <result>2<result>
+> ResponseBody: \<result>2\<result>
 
